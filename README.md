@@ -7,7 +7,7 @@ This repository contains some documentation about the Kyma Chatbot project. The 
 <table>
    <tbody align="center">
       <tr>
-         <td><i>A good start to learn about the Kyma Chatbot is the following <b>blog article</b>, that I published on blogs.sap.com:</i><br /><a href="https://blogs.sap.com/?p=1434666">SAP Conversational AI Chatbot learning from Stack Overflow via a Kubernetes CronJob deployed in Kyma Runtime</a></td>
+         <td>&nbsp;&nbsp;<i>A good start to learn about the Kyma Chatbot is the following <b>blog article</b>, that I published on blogs.sap.com:</i>&nbsp;&nbsp;<br /><a href="https://blogs.sap.com/?p=1434666">SAP Conversational AI Chatbot learning from Stack Overflow via a Kubernetes CronJob deployed in Kyma</a></td>
       </tr>
    </tbody>
 </table>
@@ -15,7 +15,7 @@ This repository contains some documentation about the Kyma Chatbot project. The 
 <table>
    <tbody align="center">
       <tr>
-         <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Here can you find the code of the chatbot and detailed <b>step-by-step instructions</b> on how to set it up:</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /><a href="https://github.com/SAP-samples/kyma-runtime-extension-samples/tree/main/chatbot-conversational_AI">chatbot-conversational_AI directory in the kyma-runtime-extension-samples repository</a></td>
+         <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Here can you find the code of the chatbot and detailed <b>step-by-step instructions</b> on how to set it up:</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /><a href="https://github.com/SAP-samples/kyma-runtime-extension-samples/tree/main/chatbot-conversational_AI">chatbot-conversational_AI directory in the kyma-runtime-extension-samples repository</a></td>
       </tr>
    </tbody>
 </table>
